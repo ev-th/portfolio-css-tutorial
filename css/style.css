@@ -154,6 +154,8 @@
 
 #projects {
     padding: 4rem 1rem;
+    max-width: 1200px;
+    margin: 0 auto;
   }
   
   #projects h2 {
